@@ -1,0 +1,203 @@
+<section class="section1">
+  <div class="divsection1">
+    <div class="cabecalho1">
+      <div class="rede">
+        REDE
+      </div>
+      <div class="tisse">
+        TISSE
+      </div>   
+    </div>
+    <div class="cabecalho2">
+      <div class="s1menu">
+        <div class="s1m">QUEM SOMOS</div>
+        <div class="s1m">HISTÓRICO</div>
+        <div class="s1m">MISSÃO</div>
+        <div class="s1m">ATUAÇÃO</div>
+        <div class="s1m">PESQUISADORES</div>
+        <div class="s1icon">
+          <img class="icons1" src="https://lh3.googleusercontent.com/GfqRjizW4vCFHf1aCVKvHD1XrcZkkUjpWVt1-yWAHLOb1L_pGyQy0QFdlYHhUg4iQ8E6O48=s106" alt="">
+        </div>
+        <div class="s1icon">
+          <img class="icons1" src="https://lh3.googleusercontent.com/sd9FDcviYJEtk8idZ4cbhxLEqXCT2otHKSY5xVsZJL4h4ifAy34MTXQky9_Gm0Wu8qMG=s30" alt=""> 
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="section2">
+  <div class="divsection2">
+    <div class="h1">
+    Bem-vindo à TISSE
+    </div>
+    <p class="texto1">
+    If you’re looking for the latest in wireless headphones, <br>look no further. These are perfect for TV, stereo, home, <br> and cell phone.
+    </p>
+    <button class="botao1">
+    INSCREVA-SE NA NEWSLETTER
+    </button>
+  </div>     
+</section>
+
+
+
+<section class="section3">
+  <div class="divsection3"><div class="h3">
+    Somos a REDE TISSE
+  </div>
+  <p class="texto2">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed <br> do eiusmod tempor incididunt ut labore et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation <br> ullamco laboris nisi ut aliquip ex ea commodo consequat <br>  incididunt ut laboret.
+  </p>
+   <button class="botao2">
+     LEIA MAIS
+   </button>
+    </div>
+  </section>
+
+
+
+<section class="section4">
+  <div class="divsection4">
+    <h4>
+      Próximos eventos
+    </h4>
+    <div class="blocos4">  
+      <div class="pbloco4"><h5>
+        22 out 2021
+      </h5>
+        Congresso Nacional de <br> Educação Profissional - <br> Edição Virtual 2021
+        <h6>
+        Leia mais ->
+        </h6>
+      </div>
+      <div class="pbloco4">
+        <h5>
+        22 out 2021
+        </h5>
+        Congresso Nacional de <br> Educação Profissional - <br> Edição Virtual 2021
+        <h6>
+        Leia mais ->
+        </h6>
+      </div>
+      <div class="pbloco4">
+        <h5>
+        22 out 2021
+      </h5>
+        Congresso Nacional de <br> Educação Profissional - <br> Edição Virtual 2021
+        <h6>
+        Leia mais ->
+        </h6>
+      </div>
+      <div class="pbloco4">
+        <h5>
+        22 out 2021
+        </h5>
+        Congresso Nacional de <br> Educação Profissional - <br> Edição Virtual 2021
+        <h6>
+        Leia mais ->
+        </h6>
+      </div>  
+    </div>
+    <h7> 
+    Veja todos os eventos
+    </h7>
+  </div>
+ </section>
+
+
+
+
+<section class="section5">
+  <div class="divsection5">
+    <h8>
+    Fique atualizado 
+      <p class="vertodas">
+      Ver todas 
+      </p>
+    </h8>
+    <div class="s5blocos">
+      <div class="pbloco5">
+        <img class ="s5img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rXTGDFTVKA3p_xV2d3nb5tcxGZQ9_PT6a3k3QVb8J_YzdafD20OFWZHlvvzt_MXM5Ao&usqp=CAU
+" alt="">
+       <h5>
+        10 Jun 2021
+        </h5>
+        <p class="ufrn">UFRN sedia o 10º Congresso Brasileiro em Educação
+        </p>
+        <p class="pbotao3">
+        <button class="botao4">
+          LEIA MAIS
+        </button>
+        </p>
+      </div>
+      <div class="pbloco5">
+        <img class="s5img" src="https://media.istockphoto.com/photos/high-school-girl-looking-through-microscope-at-school-picture-id1278973856?k=20&m=1278973856&s=612x612&w=0&h=pdxo7n5dHHNWB2bj9buRNbw8k2VgeRjtDs9YZwtJr2o=" alt="">
+        <h5>
+        10 Jun 2021
+        </h5>
+        <p class="ufrn">UFRN sedia o 10º Congresso Brasileiro em Educação
+        </p>
+        <p class="pbotao3">
+          <button class="botao3">
+          LEIA MAIS
+          </button> 
+        </p>
+      </div>
+      <div class="pbloco5">
+        <img class="s5img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0o852nWjxlaje16wNgEYwwJSjQG-lpL5tetpBpgtaFUVPusCZ2swqgedfTjLGIdFonsM&usqp=CAU" alt="">
+          <h5>
+         10 Jun 2021
+          </h5>
+          <p class="ufrn">UFRN sedia o 10º Congresso Brasileiro em Educação
+          </p>
+          <p class="pbotao3">
+            <button class="botao3">
+            LEIA MAIS
+            </button>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="section6">
+  <div class="divsection6">
+    <h10>
+      Entre em contato
+    </h10>
+    <div class="s6lados">
+      <div class="s6esquerda">
+        <p class="s6p1">
+          Estamos esperando seu contato
+        </p>
+        <p class="s6p2">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+        <ul>
+          <li style"">385 Noah Place Suite 878</li>
+          <li style"">877-255-7945</li>
+          <li style"">info@form.com</li>
+        </ul>
+      </div>
+      <div Class="s6direita">
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+</section>
